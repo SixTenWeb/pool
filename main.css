@@ -91,5 +91,8 @@ a {
         width: 80%;
         max-width: 1128px;
     }
+    main {
+        background-color: var(--blue);
+    }
 }
 
