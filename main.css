@@ -55,6 +55,8 @@ a {
     font-size: 1.6em;
     padding: 0.3em;
     border-top: 1px solid var(--blue);
+
+    background: red;
 }
 
 .nav_item a {
